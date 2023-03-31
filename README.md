@@ -5,9 +5,8 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
 </p> 
 
 ## ASIL_HybridEngine: binaural headphone rendering of direct path & early reflections
-<p align="center"> 
-<img src="/images/animation-headphones.gif" height="400" />
-</p> 
+<center><img src="/images/animation-headphones.gif" width = "300">
+<img src="/images/animation-reverb.gif" width = "300"></center>
 
 ## ASIL_HybridEngine: 7th order ambisonics reverb rendering in ASIL speakers
 <p align="center"> 
