@@ -4,12 +4,13 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
 ## Requirements
 - Ableton Live 11 suite with embedded Max MSP
 - Enevelop4live v11 - [Download](https://github.com/EnvelopSound/EnvelopForLive/releases/tag/11.0.1)
-- IEM Plugin Suite v1.14 - [Dpwnload](https://plugins.iem.at/download/)
+- IEM Plugin Suite v1.14 - [Download](https://plugins.iem.at/download/)
+- Experience in Ableton Live
 
 ## Installation
-* Download and install the latest version of IEM plugin Suite
+* [Download](https://plugins.iem.at/download/) and install the latest version of IEM plugin Suite
   * From Ableton, open any Max4Live Patch in the max editor and add the VST install directory to the max path (options -> File Preferences -> add...)
-* Download the latest release of Envelop4Live (https://github.com/EnvelopSound/EnvelopForLive/releases/download/11.0.0/Envelop.for.Live.11.0.0.zip)
+* [Download](https://github.com/EnvelopSound/EnvelopForLive/releases/tag/11.0.1) the latest release of Envelop4Live 
   - Unzip the file and place the **Envelop for Live** folder in a good location on your hard drive
   - For easy access, you may wish to bookmark the **Envelop for Live** folder in the Places section of Ableton Live. Do this by dragging and dropping the folder, or using the "Add Folder..." button.
   - <img src="https://github.com/EnvelopSound/EnvelopForLive/raw/master/doc/E4L-Places-Add.png"/>
@@ -34,3 +35,5 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
   - [E4L Mono Panner](https://github.com/EnvelopSound/EnvelopForLive/wiki/E4L-Mono-Panner)
   - [E4L Multi-Delay](https://github.com/EnvelopSound/EnvelopForLive/wiki/E4L-Multi-Delay)
 
+
+## Getting Started with the Hybrid Engine
