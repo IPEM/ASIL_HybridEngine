@@ -29,6 +29,7 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
   - For easy access, you may wish to bookmark the **Envelop for Live** folder in the Places section of Ableton Live. Do this by dragging and dropping the folder, or using the "Add Folder..." button.
   - <img src="https://github.com/EnvelopSound/EnvelopForLive/raw/master/doc/E4L-Places-Add.png"/>
 * Download patches in this repo the the same direcotry
+* In max-msp, download the OSC-route bundle (package manager)\
 
 ## Getting started with IEM Plugin Suite
 * Please refer to the IEM site for a quick [walkthrough](https://plugins.iem.at/docs/)
@@ -74,7 +75,11 @@ On the IPEM PC's, all patches & presets can be found in **Z:\__ SOFTWARE\Ambison
 
 
 
-## TODO
-- OSC input for sources & listeners
+## Limitation and todo
 - Backwards compatibility with envelop4live ("outside of our lab"-support)
+- Limited to 2 listeners
+- OSC input for sources & listeners
+- Finetune distance compensation
+- Finetune delay between vsts
+- No height channel support yet
 - 
