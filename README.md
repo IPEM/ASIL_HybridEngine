@@ -50,23 +50,24 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
   - [E4L Multi-Delay](https://github.com/EnvelopSound/EnvelopForLive/wiki/E4L-Multi-Delay)
 
 
-## Getting Started with the Hybrid Engine
+## Preparing ASIL for use with Hybrid Engine
 On the IPEM PC's, all patches & presets can be found in **Z:\__ SOFTWARE\Ambisonics\Envelop4Live-Hybrid\**
+- Get the wireless transmittors (in the rack drawer), configure as needed & connect to the headphones 
+- On the Audio Rack PC, load the dante preset **"Z:\__ SOFTWARE\Ambisonics\Envelop4Live-Hybrid\Dante\DANTE_Ambisonics_RACKPC-hybridEngine.xml"**
+- On the Mocap PC, use the "Mocap_ASIL_HeadphoneTracking_Hybrid" project.  Calibrate & configure P1 & P2 rigid bodies.
 
+## Getting Started with the Hybrid Engine
 - Place the "IPEM_Hybrid_MasterBus.amxd" on the first (audio) track; configure as needed (see workshop)
- - <img src="/images/Masterbus.jpg">
- - From left to right, you have the following components:
-  - Input for visualisation of input signal
-  - Listener configuration: P1 & P2 input can be mocap or OSC input or random input
-  - Input alignment: each participant should go the center of ASIL & watch forward to the radio side. At that moment they can be calibrated ("set zero")
-  - Room configuration: includes width, height, depth, reflections & attenuation
-  - Scene overview for graphical represention of the room & listeners  
-  - Gain control: the balance between headphone & speakers
-  - Output: 64 channel output for ASIL.  The 4 dB meters below can be used for master volume.
-  
+  - <img src="/images/Masterbus.jpg">
+  - From left to right, you have the following components:
+    - Input for visualisation of input signal
+    - Listener configuration: P1 & P2 input can be mocap or OSC input or random input
+    - Input alignment: each participant should go the center of ASIL & watch forward to the radio side. At that moment they can be calibrated ("set zero")
+    - Room configuration: includes width, height, depth, reflections & attenuation
+    - Scene overview for graphical represention of the room & listeners  
+    - Gain control: the balance between headphone & speakers
+    - Output: 64 channel output for ASIL.  The 4 dB meters below can be used for master volume.
 - Place the "IPEM_Hybrid_Source.amxd" on each track with a sound source; configure as needed (see workshop)
   - <img src="/images/source_2.jpg">
   - Includes input selection options (mouse, circle, mocap, osc, ...)
 
-- On the Mocap PC, use the "Mocap_ASIL_HeadphoneTracking_Hybrid" project.  Calibrate & configure P1 & P2 rigid bodies.
-- On the Audio Rack PC, load the dante preset **"Z:\__ SOFTWARE\Ambisonics\Envelop4Live-Hybrid\Dante\DANTE_Ambisonics_RACKPC-hybridEngine.xml"**
