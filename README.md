@@ -70,4 +70,11 @@ On the IPEM PC's, all patches & presets can be found in **Z:\__ SOFTWARE\Ambison
 - Place the "IPEM_Hybrid_Source.amxd" on each track with a sound source; configure as needed (see workshop)
   - <img src="/images/source_2.jpg">
   - Includes input selection options (mouse, circle, mocap, osc, ...)
+  - Use abletons' automation recording to record trajectories!
 
+
+
+## TODO
+- OSC input for sources & listeners
+- Backwards compatibility with envelop4live ("outside of our lab"-support)
+- 
