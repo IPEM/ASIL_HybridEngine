@@ -4,14 +4,12 @@ Hybrid Engine (Headphone &amp; speakers) for artists who want to explore interac
 <img src="/images/Concept.jpg" height="400" />
 </p> 
 
-## ASIL_HybridEngine: binaural headphone rendering of direct path & early reflections
-<center><img src="/images/animation-headphones.gif" width = "300">
-<img src="/images/animation-reverb.gif" width = "300"></center>
+## ASIL_HybridEngine: binaural headphone rendering of direct path & early reflections; 7th order ambisonics reverb rendering in ASIL speakers
+<div class="container"> 
+<img src="/images/animation-headphones.gif" width = "250">
+<img src="/images/animation-reverb.gif" width = "250">
+ </div> 
 
-## ASIL_HybridEngine: 7th order ambisonics reverb rendering in ASIL speakers
-<p align="center"> 
-<img src="/images/animation-reverb.gif" height="400" />
-</p> 
 
 ## Requirements
 - Ableton Live 11 suite with embedded Max MSP
